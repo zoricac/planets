@@ -8,4 +8,5 @@ Anna added this line =)
 changes are not good
 
 keep things interesting and add changes!!
-I dont like conflicts...
+
+I dont like conflicts, therefore we have to think about teaching conflict resolution.
